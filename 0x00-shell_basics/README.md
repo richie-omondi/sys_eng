@@ -15,3 +15,4 @@ This repo contains different shell scripts that perform different functions as o
 - 12-file_type - Checks the file type.
 - 13-symbolic_link - Creates symbolic link.
 - 14-copy_html - Copy files from current directory to parent directory that were previously not in the parent directory or are newer versions.
+- 100-lets_move - Moves all files beginning with an uppercase letter to the directory /tmp/u (or any other directory of your choosing)
