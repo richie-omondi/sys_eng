@@ -14,3 +14,4 @@ This repo contains different shell scripts that perform different functions as o
 - 11-lists - Lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 - 12-file_type - Checks the file type.
 - 13-symbolic_link - Creates symbolic link.
+- 14-copy_html - Copy files from current directory to parent directory that were previously not in the parent directory or are newer versions.
