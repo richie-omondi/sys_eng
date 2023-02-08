@@ -7,4 +7,5 @@ This repo contains different shell scripts that perform different functions as o
 - 4-listmorefiles - Displays the current directory's contents including the hidden files in the long format.
 - 5-listfilesdigitonly - Displays the current directory's content including the hidden files in the long format, with user and group IDs displayed numerically.
 - 6-firstdirectory - Creates a directory in the /tmp/ directory.
-- 7-movethatfile - Moves files from one folder to another
+- 7-movethatfile - Moves files from one folder to another.
+- 8-firstdelete - Deletes file from folder.
