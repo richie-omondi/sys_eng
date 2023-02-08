@@ -12,4 +12,5 @@ This repo contains different shell scripts that perform different functions as o
 - 9-firstdirdeletion - Deletes a folder.
 - 10-back - Changes the current working directory to the previous one.
 - 11-lists - Lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+- 12-file_type - Checks the file type.
 
