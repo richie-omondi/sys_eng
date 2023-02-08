@@ -9,4 +9,5 @@ This repo contains different shell scripts that perform different functions as o
 - 6-firstdirectory - Creates a directory in the /tmp/ directory.
 - 7-movethatfile - Moves files from one folder to another.
 - 8-firstdelete - Deletes file from folder.
-- 9-firstdirdeletion - Deletes a folder
+- 9-firstdirdeletion - Deletes a folder.
+- 10-back - Changes the current working directory to the previous one.
