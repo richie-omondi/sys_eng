@@ -18,3 +18,11 @@ This repo contains different shell scripts that perform different functions as o
 - 100-lets_move - Moves all files beginning with an uppercase letter to the directory /tmp/u (or any other directory of your choosing).
 - 101-clean_emacs - Deletes all files in the current working directory that end with the character ~
 - 102-tree - Creates new directories in current directory.
+- 103-commas - Lists all the files and directories of the current directory, separated by commas according to the following criteria:
+  - Directory names should end with a slash (/)
+  - Files and directories starting with a dot (.) should be listed
+  - The listing should be alpha ordered, except for the directories . and .. which should be listed at the very beginning
+  - Only digits and letters are used to sort; Digits should come first
+  - You can assume that all the files we will test with will have at least one letter or one digit
+  - The listing should end with a new line
+ 
