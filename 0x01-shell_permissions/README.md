@@ -10,3 +10,4 @@ This repo contains bash scripts that implement different shell permissions such 
 - 7-everybody - Adds execution permission to the owner, the group owner and the other users, to the file hello.
 - 8-James_Bond - Gives only others execution permission.
 - 9-John_Doe - Sets a mode of a file.
+- 10-mirror_permissions - Mirrors the permissions of another file (Always despite permission changes)
