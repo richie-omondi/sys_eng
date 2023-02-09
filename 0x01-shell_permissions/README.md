@@ -8,4 +8,5 @@ This repo contains bash scripts that implement different shell permissions such 
 - 5-execute - Adds execute permission to the owner of the file.
 - 6-multiple_permissions -  Adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 - 7-everybody - Adds execution permission to the owner, the group owner and the other users, to the file hello.
-- 8-James_Bond - Gives only others execution permission
+- 8-James_Bond - Gives only others execution permission.
+- 9-John_Doe - Sets a mode of a file.
