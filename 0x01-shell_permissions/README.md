@@ -5,3 +5,4 @@ This repo contains bash scripts that implement different shell permissions such 
 - 2-groups - Checks the groups the current user is in.
 - 3-new_owner - Changes the owner of the file to the new owner.
 - 4-empty - Creates an empty file.
+- 5-execute - Adds execute permission to the owner of the file.
