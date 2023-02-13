@@ -6,7 +6,7 @@ This repo contains different shell scripts that perform different functions as o
 - 3-listfiles - Displays the current directory's contents in a long format.
 - 4-listmorefiles - Displays the current directory's contents including the hidden files in the long format.
 - 5-listfilesdigitonly - Displays the current directory's content including the hidden files in the long format, with user and group IDs displayed numerically.
-- 6-firstdirectory - Creates a directory in the /tmp/ directory.
+- 6-firstdirectory - Creates a directory in the `/tmp/` directory.
 - 7-movethatfile - Moves files from one folder to another.
 - 8-firstdelete - Deletes file from folder.
 - 9-firstdirdeletion - Deletes a folder.
@@ -15,8 +15,8 @@ This repo contains different shell scripts that perform different functions as o
 - 12-file_type - Checks the file type.
 - 13-symbolic_link - Creates symbolic link.
 - 14-copy_html - Copy files from current directory to parent directory that were previously not in the parent directory or are newer versions.
-- 100-lets_move - Moves all files beginning with an uppercase letter to the directory /tmp/u (or any other directory of your choosing).
-- 101-clean_emacs - Deletes all files in the current working directory that end with the character ~
+- 100-lets_move - Moves all files beginning with an uppercase letter to the directory `/tmp/u` (or any other directory of your choosing).
+- 101-clean_emacs - Deletes all files in the current working directory that end with the character `~`
 - 102-tree - Creates new directories in current directory.
 - 103-commas - Lists all the files and directories of the current directory, separated by commas according to the following criteria:
   - Directory names should end with a slash (/)
@@ -25,5 +25,5 @@ This repo contains different shell scripts that perform different functions as o
   - Only digits and letters are used to sort; Digits should come first
   - You can assume that all the files we will test with will have at least one letter or one digit
   - The listing should end with a new line
- - school.mgc - Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
+ - school.mgc - Create a magic file `school.mgc` that can be used with the command file to detect `School` data files. School data files always contain the string SCHOOL at offset 0.
  
