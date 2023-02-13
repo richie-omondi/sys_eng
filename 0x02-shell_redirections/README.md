@@ -24,3 +24,4 @@ This repo contains various bash scripts that deal with Shell I/O, Redirections a
 - 18-letteronly - Display all lines of the file `/etc/ssh/sshd_config` starting with a letter (including capital letters).
 - 19-AZ - Replace all characters `A` and `c` from input to `Z` and `e` respectively.
 - 20-hiago - Create a script that removes all letters `c` and `C` from input.
+- 21-reverse - Reverses its input.
