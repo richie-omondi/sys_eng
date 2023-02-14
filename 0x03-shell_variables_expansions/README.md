@@ -18,4 +18,4 @@ This folder contains Bash scripts that implement the following:
   - The output should be alpha ordered, starting with `aa`
   - Do not print `oo`
   - Your script file should contain maximum 64 characters
- 
+ - 13-print_float - Prints a number with two decimal places
