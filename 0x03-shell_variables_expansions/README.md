@@ -18,4 +18,5 @@ This folder contains Bash scripts that implement the following:
   - The output should be alpha ordered, starting with `aa`
   - Do not print `oo`
   - Your script file should contain maximum 64 characters
- - 13-print_float - Prints a number with two decimal places
+ - 13-print_float - Prints a number with two decimal places.
+ - 100-decimal_to_hexadecimal - Converts a number from base 10 to base 16. The number in base 10 is stored in the environment variable `DECIMAL`
