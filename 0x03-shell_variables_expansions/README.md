@@ -20,3 +20,4 @@ This folder contains Bash scripts that implement the following:
   - Your script file should contain maximum 64 characters
  - 13-print_float - Prints a number with two decimal places.
  - 100-decimal_to_hexadecimal - Converts a number from base 10 to base 16. The number in base 10 is stored in the environment variable `DECIMAL`
+ - 101-rot13 - Encodes and decodes text using the rot13 encryption. Assume ASCII.
