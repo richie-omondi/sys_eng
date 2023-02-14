@@ -9,3 +9,4 @@ This folder contains Bash scripts that implement the following:
 - 6-create_local_variable - Creates a new local variable.
 - 7-create_global_variable - Creates a global variable.
 - 8-true_knowledge - Prints the result of the addition of 128 with the value stored in the environment variable `TRUEKNOWLEDGE`, followed by a new line.
+- 9-divide_and_rule - Prints the result of `POWER` divided by `DIVIDE`, followed by a new line.
