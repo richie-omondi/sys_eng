@@ -33,3 +33,6 @@ For those who want to know more and learn about all signals, check out [this art
 
 ![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/e4032ad4-0b2a-4027-a047-cab45f732702)
 
+**3-show_your_bash_pid_made_easy**
+
+![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/b7dc4960-c26e-48c7-9aed-7a348a36095c)
