@@ -24,3 +24,8 @@
 
 ### More Info
 For those who want to know more and learn about all signals, check out [this article](https://www.computerhope.com/unix/signals.htm).
+
+**1-list_your_processes**
+
+![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/17377fe6-9f48-49bd-a880-f7bb2927390f)
+
