@@ -44,3 +44,9 @@ For those who want to know more and learn about all signals, check out [this art
 **7-highlander**
 
 ![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/aa948285-82ce-4a0a-b659-af4462d97bd0)
+
+**101-manage_my_process**
+
+![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/e344d6b6-be2d-4322-a005-8d3d2ea58608)
+
+![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/77ad47db-eec6-431c-8f39-05900a5618db)
