@@ -50,3 +50,10 @@ For those who want to know more and learn about all signals, check out [this art
 ![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/e344d6b6-be2d-4322-a005-8d3d2ea58608)
 
 ![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/77ad47db-eec6-431c-8f39-05900a5618db)
+
+**102-zombie.c**
+
+![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/0c2f74d2-385f-4981-835e-da68fd0027ab)
+
+
+![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/48b25187-b5b7-4ed8-8229-69ab04d77d11)
