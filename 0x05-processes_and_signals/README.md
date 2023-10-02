@@ -45,4 +45,7 @@ For those who want to know more and learn about all signals, check out [this art
 
 ![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/aa948285-82ce-4a0a-b659-af4462d97bd0)
 
+**100-process_and_pid_file**
+
+![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/3544d8fb-7bed-4fbf-944d-dc6f50f81cd2)
 
