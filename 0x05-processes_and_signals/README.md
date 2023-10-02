@@ -29,3 +29,7 @@ For those who want to know more and learn about all signals, check out [this art
 
 ![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/17377fe6-9f48-49bd-a880-f7bb2927390f)
 
+**2-show_your_bash_pid**
+
+![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/e4032ad4-0b2a-4027-a047-cab45f732702)
+
