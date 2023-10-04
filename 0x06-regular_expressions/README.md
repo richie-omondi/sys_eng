@@ -25,3 +25,8 @@ Read about regexp:
 - [Rubular is your best friend](https://rubular.com/)
 - [Use a regular expression against a problem: now you have 2 problems](https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/)
 - [Learn Regular Expressions with simple, interactive exercises](https://regexone.com/)
+
+**100-textme.rb**
+
+![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/f50e29a8-4242-4d8d-a8c2-74b9109a522b)
+
