@@ -10,4 +10,3 @@ In this work, we will see how to implement a configuration management strategy i
 - [Puppet resource type: file](https://puppet.com/docs/puppet/3.8/types/file.html)
 - [Puppet’s Declarative Language: Modeling Instead of Scripting](https://puppet.com/blog/puppets-declarative-language-modeling-instead-of-scripting/)
 - [Puppet lint](http://puppet-lint.com/)
-- [Puppet emacs mode](https://github.com/voxpupuli/puppet-mode)
