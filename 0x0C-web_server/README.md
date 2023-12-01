@@ -17,3 +17,8 @@ Files | Description
 
 ![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/86ed6e1f-d3dd-42a3-a9bb-b1e7ddb2af53)
 
+**1-install_nginx_web-server**
+
+![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/2d714244-206c-4140-ba7a-d10c787ce764)
+
+
