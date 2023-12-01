@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Docs
+# configures an Nginx server so that /redirect_me is redirecting to another page
 
 sudo apt-get -y install nginx
 sudo bash -c 'echo "Hello World!" > /var/www/html/index.nginx-debian.html'
