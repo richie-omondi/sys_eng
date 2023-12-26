@@ -1,7 +1,21 @@
 #!/usr/bin/env bash
 # Command to make an nginx server listen on port 80
-apt-get -y update
-apt-get -y install nginx
-ufw allow 'Nginx HTTP'
-sed -i 's/8080/80/g' /etc/nginx/sites-enabled/default
-service nginx start
+config="
+server {
+	listen 80 default_server;
+	listen [::]:80 default_server ipv6only=on;
+
+	root /usr/share/nginx/html;
+	index index.html index.htm;
+
+	# Make site accessible from http://localhost/
+	server_name localhost;
+
+	location / {
+		try_files \$uri \$uri/ =404;
+	}
+
+}
+"
+echo "$config" > /etc/nginx/sites-enabled/default
+service nginx restart
