@@ -82,5 +82,3 @@ ETag: "58abea7c-1e"
 X-Served-By: 03-web-01
 Accept-Ranges: bytes
 ```
-
-2018 - All programs written by Derek Kwok ([@dlangshk](https://twitter.com/dlangshk)) at [DHK School](https://www.dhkschool.com/)
