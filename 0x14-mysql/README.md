@@ -7,6 +7,11 @@ and wrote a Bash script to automate generation of database backups.
 
 ## Tasks :page_with_curl:
 
+## Let us in!!
+
+![image](https://github.com/richie-omondi/alx-system_engineering-devops/assets/69873039/87c60c8d-0446-4749-a070-bddec1a87722)
+
+
 * [4-mysql_configuration_primary](./4-mysql_configuration_primary): The MySQL
 `my.conf` configuration file used to set up my first server as a primary database
 server on the database `tyrell_corp`.
